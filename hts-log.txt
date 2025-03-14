@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 14 Mar 2025 12:10:23 at https://patrimonio-fc567d.webflow.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://patrimonio-fc567d.webflow.io/ -O1 "C:\Users\INNOVA\Downloads\Patrimonio2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:10:24	Error: 	"Bad Gateway" (502) after 2 retries at link https://patrimonio-fc567d.webflow.io/robots.txt (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 seconds : 32 links scanned, 31 files written (2185717 bytes overall) [1893332 bytes received at 189333 bytes/sec], 441748 bytes transferred using HTTP compression in 11 files, ratio 27%, 3.5 requests per connection
+(1 errors, 0 warnings, 0 messages)
